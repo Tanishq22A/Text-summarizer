@@ -41,5 +41,5 @@ The app identifies important sentences based on word frequencies and generates a
    ```bash
    streamlit run app.py
  
-4. 
+
 
