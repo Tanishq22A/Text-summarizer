@@ -28,3 +28,18 @@ The app identifies important sentences based on word frequencies and generates a
    ```bash
    git clone https://github.com/Tanishq22A/chota-don.git
    cd chota-don
+
+2. **Install dependencies**
+   ```bash
+   pip install -r requirements.txt
+
+3. **Download spaCy model**
+   ```bash
+   python -m spacy download en_core_web_sm
+
+4. **Run the app**
+   ```bash
+   streamlit run app.py
+ 
+4. 
+
